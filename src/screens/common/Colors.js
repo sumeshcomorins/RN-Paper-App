@@ -1,0 +1,23 @@
+export const colors={
+    defaultBlue:"#3d26a3",
+    darkBlue:'#00008b',
+    textGray:"#c7c7cc",
+    hexGray:'#e0e0e0',
+    textblack:"#000000",
+    defaultWhite:"#ffffff",
+    defaultYellow:'#fcb71b',
+    primaryColor:'#01072c',
+    secondaryColor:'#d5002a',
+    schedule_blue:"#246ee9",
+    silver_chalice:'#A9A9A9',
+    mulled_wine:"#524464",
+    dolphin:"#6D617C",
+    green:'#06d755',
+    flowPrimaryColor:"#414661",
+    FAColor:'#7a8a72',
+    reviewButtonColor:'#374e2a',
+    linkBlue:'#2760af',
+    placeHolder:'#999',
+    pinBlue:'#0300f7',
+    dolphinGray:'#E0E0E0'
+};
